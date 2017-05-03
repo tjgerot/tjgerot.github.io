@@ -1,0 +1,51 @@
+https://keybase.io/tjgerot
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tjgerot.github.io
+  * I am tjgerot (https://keybase.io/tjgerot) on keybase.
+  * I have a public key ASDLVQ3RNA7yKxqXpe8dTou1R-8h9TTiaXsYbrPv-zjkbgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015466bb076bcb7f65708f6c66fdb2afa7e9004f35091eaa17c8e8279e79e994750a",
+            "host": "keybase.io",
+            "kid": "0120cb550dd1340ef22b1a97a5ef1d4e8bb547ef21f534e2697b186eb3effb38e46e0a",
+            "uid": "35115fa34d4bf0f1bd328fb88b1b3119",
+            "username": "tjgerot"
+        },
+        "service": {
+            "hostname": "tjgerot.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1493436097,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1493436061,
+        "hash": "a7fe01042dea01e00f78ca6c5020144eed88a9ce5851e871f9c087919b0348cda0fd796914932c22450a507573bff8ceb4252037183df9484903a7c31ed580cb",
+        "seqno": 1044315
+    },
+    "prev": "522251010a2b9a5e1c2419b85efc4790807e1781c2bfeda86cb0ce7a6984bd47",
+    "seqno": 50,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgy1UN0TQO8isal6XvHU6LtUfvIfU04ml7GG6z7/s45G4Kp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNTQ2NmJiMDc2YmNiN2Y2NTcwOGY2YzY2ZmRiMmFmYTdlOTAwNGYzNTA5MWVhYTE3YzhlODI3OWU3OWU5OTQ3NTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2I1NTBkZDEzNDBlZjIyYjFhOTdhNWVmMWQ0ZThiYjU0N2VmMjFmNTM0ZTI2OTdiMTg2ZWIzZWZmYjM4ZTQ2ZTBhIiwidWlkIjoiMzUxMTVmYTM0ZDRiZjBmMWJkMzI4ZmI4OGIxYjMxMTkiLCJ1c2VybmFtZSI6InRqZ2Vyb3QifSwic2VydmljZSI6eyJob3N0bmFtZSI6InRqZ2Vyb3QuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0OTM0MzYwOTcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5MzQzNjA2MSwiaGFzaCI6ImE3ZmUwMTA0MmRlYTAxZTAwZjc4Y2E2YzUwMjAxNDRlZWQ4OGE5Y2U1ODUxZTg3MWY5YzA4NzkxOWIwMzQ4Y2RhMGZkNzk2OTE0OTMyYzIyNDUwYTUwNzU3M2JmZjhjZWI0MjUyMDM3MTgzZGY5NDg0OTAzYTdjMzFlZDU4MGNiIiwic2Vxbm8iOjEwNDQzMTV9LCJwcmV2IjoiNTIyMjUxMDEwYTJiOWE1ZTFjMjQxOWI4NWVmYzQ3OTA4MDdlMTc4MWMyYmZlZGE4NmNiMGNlN2E2OTg0YmQ0NyIsInNlcW5vIjo1MCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDx2oDQcRyfBsYBtmTJogIwS/Uu30ArMPBD7yS52xXG2HjgCBb8wRFKY7w4OHH2y6Lv+uLi/36LVWJFwSXGsS8PqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgCPlq4XQEl7Ez4yachjVEItZwu3LQKwBfx5wJuJfu8GSjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tjgerot
